@@ -18,7 +18,7 @@
   <project path="packages/apps/DUI" name="packages_apps_DUI" remote="aqua" revision="a7.1.1" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="aqua" revision="a7.1.1" />
   <project path="packages/apps/ThemeInterfacer" name="packages_apps_ThemeInterfacer" remote="aqua" revision="n-rootless" />
-  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="aqua" revision="a7.1.1" />
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="aqua" revision="a7.1.1" /> 
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="aqua" revision="a7.1.1" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="aqua" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="aqua" />
