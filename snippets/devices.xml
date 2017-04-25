@@ -8,7 +8,6 @@
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <!-- pme -->
-  <!-- need this in system/bt to build, git fetch https://review.lineageos.org/LineageOS/android_system_bt refs/changes/19/156319/1 && git cherry-pick FETCH_HEAD -->
   <project name="device_htc_pme" path="device/htc/pme" remote="aqua" revision="a7.1.1" />
   <project name="LineageOS/android_kernel_htc_msm8996" path="kernel/htc/msm8996" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.1" />
