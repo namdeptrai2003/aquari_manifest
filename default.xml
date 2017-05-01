@@ -33,6 +33,7 @@
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" remote="aqua" revision="a7.1.2" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="aqua" revision="a7.1.2" />
   <project path="packages/apps/ThemeInterfacer" name="ThemeInterfacer" remote="aqua" revision="a7.1.2" />
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="aqua" revision="a7.1.2" /> 
   <project path="system/core" name="system_core" remote="aqua" revision="a7.1.2" />
   <project path="system/sepolicy" name="system_sepolicy" remote="aqua" revision="a7.1.2" />
   <project path="vendor/aquarios" name="vendor_aquarios" remote="aqua" revision="a7.1.2" />
