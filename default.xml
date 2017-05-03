@@ -30,6 +30,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="aqua" revision="a7.1.2" />
   <project path="packages/apps/DUI" name="packages_apps_DUI" remote="aqua" revision="a7.1.2" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" groups="pdk-fs" remote="aqua" revision="a7.1.2" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="aqua" revision="a7.1.2" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" remote="aqua" revision="a7.1.2" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="aqua" revision="a7.1.2" />
   <project path="packages/apps/ThemeInterfacer" name="ThemeInterfacer" remote="aqua" revision="a7.1.2" />
