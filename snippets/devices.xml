@@ -24,6 +24,7 @@
   <project name="LineageOS/android_hardware_Samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
   <!-- the vendors -->
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.1" />
+   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
   <!-- device apps -->
   <project name="LineageOS/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="cm-14.1" />
