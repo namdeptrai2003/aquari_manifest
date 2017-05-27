@@ -12,16 +12,11 @@
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <!-- pme -->
-  <project name="device_htc_pme" path="device/htc/pme" remote="aqua" revision="a7.1.2" />
-  <project name="LineageOS/android_kernel_htc_msm8996" path="kernel/htc/msm8996" remote="github" revision="cm-14.1" />
+  <project name="device_htc_pme" path="device/htc/pme" remote="aqua" revision="a7.1.2-eas" />
+  <project name="tabp0le/android_kernel_htc_msm8996" path="kernel/htc/msm8996" remote="github" revision="n7x-tabp0le-eas" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="cm-14.1" />
-  <!-- m8 -->
-  <project name="device_htc_m8" path="device/htc/m8" remote="aqua" revision="a7.1.1" />
-  <project name="device_htc_m8-common" path="device/htc/m8-common" remote="aqua" revision="a7.1.1" />
-  <project name="device_htc_msm8974-common" path="device/htc/msm8974-common" remote="aqua" revision="a7.1.1" />
-  <project name="LineageOS/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" revision="cm-14.1" />
   <!-- jfltevzw -->
   <project name="device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="aqua" revision="a7.1.1" />
   <project name="device_samsung_jf-common" path="device/samsung/jf-common" remote="aqua" revision="a7.1.1" />
@@ -30,8 +25,8 @@
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_Samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
   <!-- the vendors -->
-  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.1" />
-   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
+  <project name="tabp0le/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="n7x-eas" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
   <!-- device apps -->
