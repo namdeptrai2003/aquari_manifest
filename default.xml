@@ -38,6 +38,7 @@
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="aqua" revision="a7.1.2" /> 
   <project path="system/core" name="system_core" remote="aqua" revision="a7.1.2" />
   <project path="system/sepolicy" name="system_sepolicy" remote="aqua" revision="a7.1.2" />
+  <project path="system/vold" name="system_vold" remote="aqua" revision="a7.1.2" />
   <project path="vendor/aquarios" name="vendor_aquarios" remote="aqua" revision="a7.1.2" />
 
   <!-- AquariOS Nexus devices -->
@@ -528,7 +529,6 @@
   <project path="system/tools/aidl" name="platform/system/tools/aidl" groups="pdk" />
   <project path="system/tpm" name="platform/system/tpm" />
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" />
-  <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="system/weaved" name="platform/system/weaved" />
   <project path="system/webservd" name="platform/system/webservd" />
   <project path="toolchain/binutils" name="toolchain/binutils" />
