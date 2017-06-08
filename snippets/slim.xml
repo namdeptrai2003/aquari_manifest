@@ -67,5 +67,5 @@
   <project path="external/stagefright-plugins" name="SlimRoms/android_external_stagefright-plugins" />
   <project path="external/ntfs-3g" name="SlimRoms/android_external_ntfs-3g" />
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
-
+  <project path="vendor/codeaurora/telephony" name="SlimRoms/vendor_codeaurora_telephony" />
 </manifest>

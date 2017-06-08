@@ -49,7 +49,6 @@
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm" />
   <project path="hardware/qcom/wlan-caf" name="android_hardware_qcom_wlan" remote="cm" revision="cm-14.1-caf" />
   <project path="system/qcom" name="android_system_qcom" remote="cm" />
-  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="cm" />
   <project path="vendor/qcom/opensource/bluetooth" name="android_vendor_qcom_opensource_bluetooth" remote="cm" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="cm" />
   <project path="vendor/qcom/opensource/dpm" name="android_vendor_qcom_opensource_dpm" remote="cm" />
