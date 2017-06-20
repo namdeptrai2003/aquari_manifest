@@ -45,7 +45,7 @@
   <!-- AquariOS Nexus devices -->
   <!--angler -->
   <project path="device/huawei/angler" name="device_huawei_angler" remote="aqua" revision="a7.1.2" />
-  <project path="kernel/huawei/angler" name="kernel_huawei_angler" remote="aqua" revision="a7.1.2" />
+  <project path="kernel/huawei/angler" name="nathanchance/angler" remote="github" revision="7.1.2-flash" />
   <project path="vendor/huawei" name="proprietary_vendor_huawei" remote="aqua" revision="a7.1.2" />
 
   <!-- AOSP Repo's -->
