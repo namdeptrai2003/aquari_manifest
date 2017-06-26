@@ -49,6 +49,10 @@
   <project path="kernel/huawei/angler" name="nathanchance/angler" remote="github" revision="7.1.2-flash" />
   <project path="vendor/huawei" name="proprietary_vendor_huawei" remote="aqua" revision="a7.1.2" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-linux-gnueabi-7.x" name="nathanchance/gcc-prebuilts" remote="github" revision="personal-linaro-7.x" />
+  <!-- bullhead -->
+  <project path="device/lge/bullhead" name="device_lge_bullhead" remote="aqua" revision="a7.1.2" />
+  <project path="kernel/lge/bullhead" name="kernel_lge_bullhead" remote="aqua" revision="a7.1.2" />
+  <project path="vendor/lge" name="proprietary_vendor_lge" remote="aqua" revision="a7.1.2" />
 
   <!-- AOSP Repo's -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
