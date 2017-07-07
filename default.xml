@@ -46,9 +46,8 @@
   <!-- AquariOS Nexus devices -->
   <!--angler -->
   <project path="device/huawei/angler" name="device_huawei_angler" remote="aqua" revision="a7.1.2" />
-  <project path="kernel/huawei/angler" name="nathanchance/angler" remote="github" revision="7.1.2-flash" />
+  <project path="kernel/huawei/angler" name="kernel_huawei_angler" remote="aqua" revision="a7.1.2" />
   <project path="vendor/huawei" name="proprietary_vendor_huawei" remote="aqua" revision="a7.1.2" />
-  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-linux-gnu-7.x" name="nathanchance/gcc-prebuilts" remote="github" revision="personal-linaro-7.x" />
 
   <!-- bullhead -->
   <project path="device/lge/bullhead" name="device_lge_bullhead" remote="aqua" revision="a7.1.2" />
