@@ -8,7 +8,7 @@
            review="android-review.googlesource.com" />
   <remote  name="aqua"
            fetch="https://github.com/aquarios/" />
-  <default revision="refs/tags/android-7.1.2_r14"
+  <default revision="refs/tags/android-7.1.2_r27"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
