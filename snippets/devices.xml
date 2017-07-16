@@ -13,7 +13,7 @@
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <!-- pme -->
   <project name="device_htc_pme" path="device/htc/pme" remote="aqua" revision="a7.1.2-eas" />
-  <project name="tabp0le/android_kernel_htc_msm8996" path="kernel/htc/msm8996" remote="github" revision="n7x-tabp0le-eas" />
+  <project name="tabp0le/android_kernel_htc_msm8996" path="kernel/htc/msm8996" remote="github" revision="n7x-tabp0le-eas-r3" />
   <project name="EAS-Project/android_device_voxpopuli" path="device/voxpopuli" remote="github" revision="msm8996" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-14.1" />
