@@ -9,12 +9,11 @@
   <project name="device_lge_us997" path="device/lge/us997" remote="aqua" revision="a7.1.2" />
   <project name="LineageOS/android_device_lge_g6-common" path="device/lge/g6-common" remote="github" revision="cm-14.1" />
   <project name="device_lge_msm8996-common" path="device/lge/msm8996-common" remote="aqua" revision="a7.1.2" />
-  <project name="Rashed97/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" revision="cm-14.1" />
   <!-- h811/h815 -->
   <project name="device_lge_h811" path="device/lge/h811" remote="aqua" revision="a7.1.1" />
-  <project name="device_lge_h815" path="device/lge/h815" remote="aqua" revision="a7.1.1" />
   <project name="device_lge_g4-common" path="device/lge/g4-common" remote="aqua" revision="a7.1.2" />
-  <project name="kernel_lge_msm8992" path="kernel/lge/msm8992" remote="aqua" revision="a7.1.1" />
+  <project name="LineageOS/android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <!-- pme -->
