@@ -31,7 +31,6 @@
   <project path="hardware/qcom/power" name="SlimRoms/hardware_qcom_power" />
   <project path="libcore" name="SlimRoms/android_libcore" />
   <project path="packages/apps/BasicSmsReceiver" name="SlimRoms/packages_apps_BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="SlimRoms/packages_apps_Bluetooth" />
   <project path="packages/apps/Camera2" name="SlimRoms/packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="SlimRoms/packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/Contacts" name="SlimRoms/packages_apps_Contacts" />
