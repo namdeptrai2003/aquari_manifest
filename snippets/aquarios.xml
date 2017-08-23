@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="aqua"
+           fetch="https://github.com/aquarios"
+           revision="a8.0.0-caf" />
+
+  <project path="manifest" name="manifest" remote="aqua" />
+  <project path="vendor/aquarios" name="vendor_aquarios" remote="aqua" />
+</manifest>

@@ -1,0 +1,11 @@
+## caf manifest
+
+## Start with this...
+
+```
+repo init -u https://github.com/aquarios/manifest -b a8.0.0-caf
+```
+
+Many thanks to all the amazing people who have patiently helped me along the way!!!
+
+##:)
