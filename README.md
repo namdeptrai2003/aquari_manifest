@@ -3,16 +3,6 @@
 Aquari-OS
 =========
 
-Credits 
--------
- * [**AOSP-CAF Team**](https://github.com/AOSP-CAF)
- * [**DirtyUnicorns**](https://github.com/DirtyUnicorns) 
- * [**AOSPA**](https://github.com/AOSPA)
- * [**TeamSubstratum (Theme Engine)**](https://github.com/Substratum)
- * [**LineageOS/Cyanogenmod**](https://github.com/LineageOS)
- * [**Pure Nexus**](https://github.com/PureNexusProject)
- * [**OmniROM**](https://github.com/omnirom/)
-
 Getting Started 
 --------------- 
 To get started with the Aquari-OS sources, you'll need to get 
