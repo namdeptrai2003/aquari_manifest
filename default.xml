@@ -10,7 +10,7 @@
            fetch="https://github.com/aquarios/" />
   <remote  name="unknown"
            fetch="https://github.com/namdeptrai2003/" />
-  <default revision="refs/tags/android-7.1.2_r29"
+  <default revision="refs/tags/android-7.1.2_r33"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
