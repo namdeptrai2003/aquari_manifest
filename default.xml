@@ -8,6 +8,8 @@
            review="android-review.googlesource.com" />
   <remote  name="aqua"
            fetch="https://github.com/aquarios/" />
+  <remote  name="unknown"
+           fetch="https://github.com/namdeptrai2003/" />
   <default revision="refs/tags/android-7.1.2_r29"
            remote="aosp"
            sync-c="true"
@@ -43,19 +45,15 @@
   <project path="system/core" name="system_core" remote="aqua" revision="a7.1.2" />
   <project path="system/sepolicy" name="system_sepolicy" remote="aqua" revision="a7.1.2" />
   <project path="system/vold" name="system_vold" remote="aqua" revision="a7.1.2" />
-  <project path="vendor/aquarios" name="vendor_aquarios" remote="aqua" revision="a7.1.2" />
+  <project path="vendor/aquarios" name="vendor_aquarios" remote="unknown" revision="a7.1.2" />
 
-  <!-- AquariOS Nexus devices -->
-  <!--angler -->
-  <project path="device/huawei/angler" name="device_huawei_angler" remote="aqua" revision="a7.1.2" />
-  <project path="kernel/huawei/angler" name="kernel_huawei_angler" remote="aqua" revision="a7.1.2-upstream" />
-  <project path="vendor/huawei" name="proprietary_vendor_huawei" remote="aqua" revision="a7.1.2" />
+  <!-- AquariOS devices -->
 
-  <!-- bullhead -->
-  <project path="device/lge/bullhead" name="device_lge_bullhead" remote="aqua" revision="a7.1.2" />
-  <project path="kernel/lge/bullhead" name="kernel_lge_bullhead" remote="aqua" revision="a7.1.2" />
-  <project path="vendor/lge" name="proprietary_vendor_lge" remote="aqua" revision="a7.1.2" />
-
+  <!-- KYLEPROXX -->
+  <project path="device/samsung/kyleproxx" name="namdeptrai2003/android_device_samsung_kyleproxx" remote="github" revision="aquarios" />
+  <project path="kernel/samsung/kyleproxx" name="ishantvivek/android_kernel_samsung_kyleproxx" remote="github" revision="cm-14.1-3.4.113" />
+  <project path="vendor/samsung/kyleproxx" name="ishantvivek/android_vendor_samsung_kyleproxx" remote="github" revision="7.0" />
+  
   <!-- AOSP Repo's -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
   <project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" >
@@ -107,7 +105,7 @@
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
-  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" />
+  <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" />
   <project path="external/cmockery" name="platform/external/cmockery" groups="pdk" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" />
@@ -546,13 +544,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" />
-  <!-- KYLEPROXX -->
-  <project path="device/samsung/kyleproxx" name="namdeptrai2003/android_device_samsung_kyleproxx" remote="github" revision="aquarios" />
-  <project path="kernel/samsung/kyleproxx" name="ishantvivek/android_kernel_samsung_kyleproxx" remote="github" revision="cm-14.1-3.4.113" />
-  <project path="vendor/samsung/kyleproxx" name="ishantvivek/android_vendor_samsung_kyleproxx" remote="github" revision="7.0" />
-  <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" />
   <!-- STUFF BUILD -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" clone-depth="1" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" /> 
   <project path="packages/apps/HexCamera" name="HexagonRom/packages_apps_Camera2" remote="github" revision="hex-7.1" />
   <project path="packages/apps/PixelLauncher" name="amirzaidi/Launcher3" remote="github" revision="o" />
